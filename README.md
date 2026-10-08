@@ -40,11 +40,11 @@ O resultado indicou que havia uma chave de segurança configurada, porém o cont
 A realização da atividade permitiu compreender, na prática, como é possível obter informações sobre uma rede Wi-Fi utilizando ferramentas nativas do Windows. Foi possível identificar o SSID, BSSID, tipo de autenticação, criptografia, canal e intensidade do sinal da rede utilizada no laboratório, além de analisar as configurações do perfil Wi-Fi salvo.A atividade também demonstrou a importância da utilização de mecanismos de segurança adequados em redes sem fio. O uso de protocolos de segurança atuais, senhas fortes, atualizações e outras medidas de proteção contribui para reduzir os riscos de acessos não autorizados e aumentar a segurança da rede.
 
 #Evidencia
-![Detecção da rede casadavovo](images/deteccao-da-rede-casadavovo.PNG)
+![Detecção da rede casadavovo](deteccao-da-rede-casadavovo.PNG)
 
-![Informações do perfil Wi-Fi casadavovo](images/informacoes-do-perfil-wifi-casadavovo.PNG)
+![Informações do perfil Wi-Fi casadavovo](informacoes-do-perfil-wifi-casadavovo.PNG)
 
-![Verificação das configurações de segurança do perfil](images/verificacao-configuracoes-seguranca-perfil.PNG)
+![Verificação das configurações de segurança do perfil](verificacao-configuracoes-seguranca-perfil.PNG)
 
 
 
