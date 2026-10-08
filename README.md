@@ -33,10 +33,10 @@ permitindo consultar as configurações do perfil Wi-Fi salvo no computador.Info
 netsh wlan show profile name="casadavovo" key=clear
 ```
 
-conforme solicitado na atividade, para verificar as configurações de segurança do perfil. 
+Conforme solicitado na atividade, para verificar as configurações de segurança do perfil. 
 O resultado indicou que havia uma chave de segurança configurada, porém o conteúdo da chave não foi exibido no ambiente utilizado.Verificação das configurações de segurança do perfil
 
-#Conclusão
+## Conclusão
 A realização da atividade permitiu compreender, na prática, como é possível obter informações sobre uma rede Wi-Fi utilizando ferramentas nativas do Windows. Foi possível identificar o SSID, BSSID, tipo de autenticação, criptografia, canal e intensidade do sinal da rede utilizada no laboratório, além de analisar as configurações do perfil Wi-Fi salvo.A atividade também demonstrou a importância da utilização de mecanismos de segurança adequados em redes sem fio. O uso de protocolos de segurança atuais, senhas fortes, atualizações e outras medidas de proteção contribui para reduzir os riscos de acessos não autorizados e aumentar a segurança da rede.
 
 #Evidencia
